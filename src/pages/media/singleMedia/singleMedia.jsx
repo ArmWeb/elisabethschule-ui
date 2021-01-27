@@ -49,18 +49,6 @@ const SingleMedia = ({ link }) => {
           })}
         </div>
         <div className={styles.mediaWrapper}>
-          {/* <iframe
-            className={styles.video}
-            title={currentMedia.name}
-            width="100%"
-            height="100%"
-            src={`${currentMedia.videoLink}?start=0`}
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            modestbranding="1"
-            rel="0"
-          /> */}
           <ReactPlayer
             className={styles.video}
             title={currentMedia.name}
@@ -69,12 +57,10 @@ const SingleMedia = ({ link }) => {
             url={`${currentMedia.videoLink}?start=0`}
             fileConfig={{
               attributes: {
-                // muted: "true",
                 autoPlay: "true",
                 playing: "true",
               },
             }}
-            muted
             controls
             playinline
             playsinline

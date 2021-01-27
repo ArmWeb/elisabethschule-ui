@@ -44,20 +44,6 @@ const Main = () => {
                 className={styles.close}
                 onClick={closeVideo}
               />
-              {/* <iframe
-                className={styles.video}
-                title="Elisabethsculle Malburg Intro"
-                width="100%"
-                height="100%"
-                src="https://www.youtube.com/embed/Aijz85tAa2w?autoplay=1&mute=1"
-                frameBorder="0"
-                allow="accelerometer; autoplay *; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                modestbranding="1"
-                rel="0"
-                showinfo="0"
-                onReady={(e) => e.target.playVideo()}
-              /> */}
             </>
           )}
           <ReactPlayer
@@ -68,12 +54,10 @@ const Main = () => {
             url="https://www.youtube.com/embed/Aijz85tAa2w"
             fileConfig={{
               attributes: {
-                // muted: "true",
                 autoPlay: "true",
                 playing: "true",
               },
             }}
-            muted
             controls
             playinline
             playsinline

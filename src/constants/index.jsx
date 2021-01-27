@@ -42,7 +42,7 @@ export const ASSETS = [
   },
   {
     id: 6,
-    name: "sport-bewegung",
+    name: "Sport & Bewegung",
     videoLink: "https://www.youtube.com/embed/vf9A3HrS1Iw",
     path: "sport",
     img: IMG6,
