@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/elisabethschule-ui/static/css/main.0fdc77dd.chunk.css",
+    "main.js": "/elisabethschule-ui/static/js/main.a69b4df4.chunk.js",
+    "main.js.map": "/elisabethschule-ui/static/js/main.a69b4df4.chunk.js.map",
+    "runtime-main.js": "/elisabethschule-ui/static/js/runtime-main.c1a4d9ea.js",
+    "runtime-main.js.map": "/elisabethschule-ui/static/js/runtime-main.c1a4d9ea.js.map",
+    "static/js/2.aa42f206.chunk.js": "/elisabethschule-ui/static/js/2.aa42f206.chunk.js",
+    "static/js/2.aa42f206.chunk.js.map": "/elisabethschule-ui/static/js/2.aa42f206.chunk.js.map",
+    "index.html": "/elisabethschule-ui/index.html",
+    "static/css/main.0fdc77dd.chunk.css.map": "/elisabethschule-ui/static/css/main.0fdc77dd.chunk.css.map",
+    "static/js/2.aa42f206.chunk.js.LICENSE.txt": "/elisabethschule-ui/static/js/2.aa42f206.chunk.js.LICENSE.txt",
+    "static/media/Elisabeth_Siegel.6eb6b6d8.jpg": "/elisabethschule-ui/static/media/Elisabeth_Siegel.6eb6b6d8.jpg",
+    "static/media/App.css": "/elisabethschule-ui/static/media/bg2.13578d7c.jpg",
+    "static/media/bilingualer-unterricht.be4cc99b.jpg": "/elisabethschule-ui/static/media/bilingualer-unterricht.be4cc99b.jpg",
+    "static/media/die-neue-schule.746fc827.jpg": "/elisabethschule-ui/static/media/die-neue-schule.746fc827.jpg",
+    "static/media/digitalisierung.89bf149e.jpg": "/elisabethschule-ui/static/media/digitalisierung.89bf149e.jpg",
+    "static/media/main.module.css": "/elisabethschule-ui/static/media/director.3ca76b66.jpg",
+    "static/media/elizabetschule_small.6e5a0b93.gif": "/elisabethschule-ui/static/media/elizabetschule_small.6e5a0b93.gif",
+    "static/media/erasmus-plus.046522b5.jpg": "/elisabethschule-ui/static/media/erasmus-plus.046522b5.jpg",
+    "static/media/ganztagsschule.b443b606.jpg": "/elisabethschule-ui/static/media/ganztagsschule.b443b606.jpg",
+    "static/media/icon_burger.976b5194.png": "/elisabethschule-ui/static/media/icon_burger.976b5194.png",
+    "static/media/icon_play.fe2879af.svg": "/elisabethschule-ui/static/media/icon_play.fe2879af.svg",
+    "static/media/logo-elizabethschulle.9478dbf6.png": "/elisabethschule-ui/static/media/logo-elizabethschulle.9478dbf6.png",
+    "static/media/miteinander.d682440a.jpg": "/elisabethschule-ui/static/media/miteinander.d682440a.jpg",
+    "static/media/musik-theater-kunst.2f749f02.jpg": "/elisabethschule-ui/static/media/musik-theater-kunst.2f749f02.jpg",
+    "static/media/naturwissenschaften.4c5cf89c.jpg": "/elisabethschule-ui/static/media/naturwissenschaften.4c5cf89c.jpg",
+    "static/media/pull-out.735b5598.jpg": "/elisabethschule-ui/static/media/pull-out.735b5598.jpg",
+    "static/media/sport.7c42f1d6.jpg": "/elisabethschule-ui/static/media/sport.7c42f1d6.jpg",
+    "static/media/sprachen-fahrten.4a67b4e4.jpg": "/elisabethschule-ui/static/media/sprachen-fahrten.4a67b4e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a4d9ea.js",
+    "static/js/2.aa42f206.chunk.js",
+    "static/css/main.0fdc77dd.chunk.css",
+    "static/js/main.a69b4df4.chunk.js"
+  ]
+}
