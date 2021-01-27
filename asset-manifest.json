@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elisabethschule-ui/static/css/main.0fdc77dd.chunk.css",
-    "main.js": "/elisabethschule-ui/static/js/main.a69b4df4.chunk.js",
-    "main.js.map": "/elisabethschule-ui/static/js/main.a69b4df4.chunk.js.map",
+    "main.js": "/elisabethschule-ui/static/js/main.876fa2d5.chunk.js",
+    "main.js.map": "/elisabethschule-ui/static/js/main.876fa2d5.chunk.js.map",
     "runtime-main.js": "/elisabethschule-ui/static/js/runtime-main.c1a4d9ea.js",
     "runtime-main.js.map": "/elisabethschule-ui/static/js/runtime-main.c1a4d9ea.js.map",
     "static/js/2.aa42f206.chunk.js": "/elisabethschule-ui/static/js/2.aa42f206.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.c1a4d9ea.js",
     "static/js/2.aa42f206.chunk.js",
     "static/css/main.0fdc77dd.chunk.css",
-    "static/js/main.a69b4df4.chunk.js"
+    "static/js/main.876fa2d5.chunk.js"
   ]
 }
