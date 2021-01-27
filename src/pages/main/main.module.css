@@ -1,0 +1,71 @@
+.container {
+  width: calc(100vw - 48px);
+  height: 100vh;
+  padding: 24px;
+}
+.logo {
+  max-width: 100%;
+  max-height: 100px;
+  margin-bottom: 12px;
+  margin-top: -18px;
+}
+.imgWrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  box-shadow: 0px 0px 0px 4px #f79004;
+  background: url("../../assets/images/director.jpg") no-repeat center center
+    fixed;
+  background-size: contain;
+  background-attachment: inherit;
+  display: none;
+}
+.mainImg {
+  max-width: 100%;
+  display: none;
+}
+.play {
+  position: absolute;
+  width: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+.video {
+  max-width: 100%;
+  box-shadow: 0px 0px 0px 4px #f79004;
+}
+.aligner {
+  position: relative;
+  width: calc(100% - 72px);
+  height: calc(100% - 210px);
+  margin: 4px auto 16px;
+  background-color: #000;
+}
+.close {
+  position: absolute;
+  width: 24px;
+  top: 4px;
+  right: 4px;
+  cursor: pointer;
+  background: #ffffff80;
+  border-radius: 50%;
+}
+.forwardIcon {
+  margin-left: 36px;
+}
+
+@media screen and (max-width: 1200px) {
+  .logo {
+    max-height: 65px;
+    margin-bottom: 16px;
+  }
+  .aligner {
+    width: 100%;
+    height: calc(100% - 162px);
+  }
+  .forwardIcon {
+    margin-left: 0;
+  }
+}
